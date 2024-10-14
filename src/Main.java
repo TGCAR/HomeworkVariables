@@ -50,7 +50,7 @@ public class Main {
         System.out.println("Всего работников в компании - " + numberEmployees + " человек");
         var addedWorkes = 94 + numberEmployees;
         var totalNumberHours2 = 8 * addedWorkes;
-        System.out.println("Если в компании работает " + addedWorkes + " человека, то всего " + totalNumberHours2 + " часа работы может быть поделено между сотрудниками" );
+        System.out.println("Если в компании работает " + addedWorkes + " человека, то всего " + totalNumberHours2 + " часов работы может быть поделено между сотрудниками" );
 
 
     }
